@@ -1,2 +1,0 @@
-username=prashanth@07
-password=jhnwewv
